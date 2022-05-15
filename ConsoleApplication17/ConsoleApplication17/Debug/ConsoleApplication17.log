@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication17\consoleapplication17\source.cpp(4): error C2259: 'shape': cannot instantiate abstract class
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication17\consoleapplication17\source.cpp(4): note: due to following members:
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication17\consoleapplication17\source.cpp(4): note: 'void shape::perimeter(void)': is abstract
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication17\consoleapplication17\shape.h(13): note: see declaration of 'shape::perimeter'
+  SHAPE.h
+  Generating Code...

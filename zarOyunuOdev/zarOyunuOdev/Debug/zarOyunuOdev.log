@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\xxmus\documents\visual studio 2015\projects\zaroyunuodev\zaroyunuodev\source.cpp(57): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  zarOyunuOdev.vcxproj -> c:\users\xxmus\documents\visual studio 2015\Projects\zarOyunuOdev\Debug\zarOyunuOdev.exe
+  zarOyunuOdev.vcxproj -> c:\users\xxmus\documents\visual studio 2015\Projects\zarOyunuOdev\Debug\zarOyunuOdev.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\polypolypoly\polypolypoly\source.cpp(66): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  polypolypoly.vcxproj -> c:\users\mustafa yilmaz\documents\visual studio 2015\Projects\polypolypoly\Debug\polypolypoly.exe
+  polypolypoly.vcxproj -> c:\users\mustafa yilmaz\documents\visual studio 2015\Projects\polypolypoly\Debug\polypolypoly.pdb (Full PDB)

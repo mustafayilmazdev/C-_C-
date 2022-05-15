@@ -1,0 +1,12 @@
+﻿  epslib.c
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication69\consoleapplication69\epslib.c(130): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication69\consoleapplication69\epslib.c(183): error C2065: 'r': undeclared identifier
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication69\consoleapplication69\epslib.c(184): error C2065: 'r': undeclared identifier
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication69\consoleapplication69\epslib.c(235): error C2065: 'pos_ellipse_func': undeclared identifier
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication69\consoleapplication69\epslib.c(235): warning C4047: 'function': 'double (__cdecl *)(double)' differs in levels of indirection from 'int'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication69\consoleapplication69\epslib.c(235): warning C4024: 'draw_fx': different types for formal and actual parameter 2
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication69\consoleapplication69\epslib.c(269): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+  draw_fx.c
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication69\consoleapplication69\draw_fx.c(35): error C2440: 'return': cannot convert from 'Figure' to 'Figure *'
+  Generating Code...

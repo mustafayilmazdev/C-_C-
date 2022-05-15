@@ -1,0 +1,7 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: unresolved external symbol "public: void __thiscall Complex::yazdir(void)" (?yazdir@Complex@@QAEXXZ) referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol "public: class Complex __thiscall Complex::arti(class Complex)" (?arti@Complex@@QAE?AV1@V1@@Z) referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol "public: class Complex __thiscall Complex::eksi(class Complex)" (?eksi@Complex@@QAE?AV1@V1@@Z) referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol "public: class Complex __thiscall Complex::carpi(class Complex)" (?carpi@Complex@@QAE?AV1@V1@@Z) referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol "public: class Complex __thiscall Complex::eksi(void)" (?eksi@Complex@@QAE?AV1@XZ) referenced in function _main
+c:\users\xxmus\documents\visual studio 2015\Projects\ConsoleApplication52\Debug\ConsoleApplication52.exe : fatal error LNK1120: 5 unresolved externals

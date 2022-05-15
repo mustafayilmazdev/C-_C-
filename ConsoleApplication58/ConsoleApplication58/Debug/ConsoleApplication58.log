@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication58\consoleapplication58\source.cpp(47): error C2597: illegal reference to non-static member 'Matris::a'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication58\consoleapplication58\source.cpp(47): error C3867: 'Matris::a': non-standard syntax; use '&' to create a pointer to member
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication58\consoleapplication58\source.cpp(47): error C2568: '<': unable to resolve function overload
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication58\consoleapplication58\source.cpp(48): error C2597: illegal reference to non-static member 'Matris::b'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication58\consoleapplication58\source.cpp(48): error C3867: 'Matris::b': non-standard syntax; use '&' to create a pointer to member
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication58\consoleapplication58\source.cpp(48): error C2568: '<': unable to resolve function overload
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication58\consoleapplication58\source.cpp(50): error C2597: illegal reference to non-static member 'Matris::dizi'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication58\consoleapplication58\source.cpp(50): error C3867: 'Matris::dizi': non-standard syntax; use '&' to create a pointer to member
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication58\consoleapplication58\source.cpp(50): error C2109: subscript requires array or pointer type

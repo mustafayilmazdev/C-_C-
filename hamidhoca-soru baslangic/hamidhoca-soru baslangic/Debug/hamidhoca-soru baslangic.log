@@ -1,0 +1,9 @@
+﻿  UCGEN.cpp
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\hamidhoca-soru baslangic\hamidhoca-soru baslangic\ucgen.cpp(53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\hamidhoca-soru baslangic\hamidhoca-soru baslangic\ucgen.cpp(54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\hamidhoca-soru baslangic\hamidhoca-soru baslangic\ucgen.cpp(55): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ANA.cpp
+  Generating Code...
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\hamidhoca-soru baslangic\hamidhoca-soru baslangic\ucgen.cpp(44): warning C4715: 'ucgen::uKontrol': not all control paths return a value
+  hamidhoca-soru baslangic.vcxproj -> C:\Users\Mustafa YILMAZ\Documents\Visual Studio 2015\Projects\hamidhoca-soru baslangic\Debug\hamidhoca-soru baslangic.exe
+  hamidhoca-soru baslangic.vcxproj -> C:\Users\Mustafa YILMAZ\Documents\Visual Studio 2015\Projects\hamidhoca-soru baslangic\Debug\hamidhoca-soru baslangic.pdb (Full PDB)

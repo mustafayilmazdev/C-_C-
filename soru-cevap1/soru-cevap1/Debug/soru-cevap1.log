@@ -1,0 +1,2 @@
+﻿Source.obj : error LNK2005: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class adres &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@AAVadres@@@Z) already defined in is.obj
+C:\Users\Mustafa YILMAZ\Documents\Visual Studio 2015\Projects\soru-cevap1\Debug\soru-cevap1.exe : fatal error LNK1169: one or more multiply defined symbols found

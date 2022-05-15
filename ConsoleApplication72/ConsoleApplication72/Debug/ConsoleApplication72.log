@@ -1,0 +1,9 @@
+﻿  Source.c
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication72\consoleapplication72\source.c(12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication72\consoleapplication72\source.c(37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication72\consoleapplication72\source.c(50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication72\consoleapplication72\source.c(63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication72\consoleapplication72\source.c(73): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication72\consoleapplication72\source.c(5): warning C4101: 's': unreferenced local variable
+  ConsoleApplication72.vcxproj -> C:\Users\xxmus\Documents\Visual Studio 2015\Projects\ConsoleApplication72\Debug\ConsoleApplication72.exe
+  ConsoleApplication72.vcxproj -> C:\Users\xxmus\Documents\Visual Studio 2015\Projects\ConsoleApplication72\Debug\ConsoleApplication72.pdb (Full PDB)

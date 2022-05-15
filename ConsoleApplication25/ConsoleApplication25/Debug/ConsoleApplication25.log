@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication25\consoleapplication25\source.c(7): error C2061: syntax error: identifier 'x'
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication25\consoleapplication25\source.c(9): error C2059: syntax error: '}'

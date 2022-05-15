@@ -1,0 +1,3 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: unresolved external symbol "public: __thiscall Matris::~Matris(void)" (??1Matris@@QAE@XZ) referenced in function _main
+C:\Users\xxmus\documents\visual studio 2015\Projects\ConsoleApplication55\Debug\ConsoleApplication55.exe : fatal error LNK1120: 1 unresolved externals

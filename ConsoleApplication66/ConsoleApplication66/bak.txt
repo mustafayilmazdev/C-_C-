@@ -1,0 +1,7 @@
+%!PS - Adobe - 3.0 EPSF - 3.0
+%%BoundingBox: -250 -125 500 250
+0 setlinewidth
+0.0 0.0 0.0 setrgbcolor
+250.0 125.0 moveto
+0.0 0.0  lineto
+stroke

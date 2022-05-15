@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication23\consoleapplication23\source.cpp(8): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication23\consoleapplication23\source.cpp(41): note: see reference to function template instantiation 'int kareAl<double>(A)' being compiled
+          with
+          [
+              A=double
+          ]
+  ConsoleApplication23.vcxproj -> c:\users\mustafa yilmaz\documents\visual studio 2015\Projects\ConsoleApplication23\Debug\ConsoleApplication23.exe
+  ConsoleApplication23.vcxproj -> c:\users\mustafa yilmaz\documents\visual studio 2015\Projects\ConsoleApplication23\Debug\ConsoleApplication23.pdb (Full PDB)

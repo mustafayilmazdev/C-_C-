@@ -1,0 +1,35 @@
+c:\users\xxmus\documents\visual studio 2015\Projects\akcaSoftLogin\akcaSoftLogin\bin\Debug\akcaSoftLogin.exe.config
+c:\users\xxmus\documents\visual studio 2015\Projects\akcaSoftLogin\akcaSoftLogin\bin\Debug\akcaSoftLogin.exe
+c:\users\xxmus\documents\visual studio 2015\Projects\akcaSoftLogin\akcaSoftLogin\bin\Debug\akcaSoftLogin.pdb
+c:\users\xxmus\documents\visual studio 2015\Projects\akcaSoftLogin\akcaSoftLogin\obj\Debug\akcaSoftLogin.csprojResolveAssemblyReference.cache
+c:\users\xxmus\documents\visual studio 2015\Projects\akcaSoftLogin\akcaSoftLogin\obj\Debug\akcaSoftLogin.Login.resources
+c:\users\xxmus\documents\visual studio 2015\Projects\akcaSoftLogin\akcaSoftLogin\obj\Debug\akcaSoftLogin.Properties.Resources.resources
+c:\users\xxmus\documents\visual studio 2015\Projects\akcaSoftLogin\akcaSoftLogin\obj\Debug\akcaSoftLogin.csproj.GenerateResource.Cache
+c:\users\xxmus\documents\visual studio 2015\Projects\akcaSoftLogin\akcaSoftLogin\obj\Debug\akcaSoftLogin.exe
+c:\users\xxmus\documents\visual studio 2015\Projects\akcaSoftLogin\akcaSoftLogin\obj\Debug\akcaSoftLogin.pdb
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - menuler\akcaSoftLogin\bin\Debug\akcaSoftLogin.exe.config
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - menuler\akcaSoftLogin\obj\Debug\akcaSoftLogin.exe
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - menuler\akcaSoftLogin\obj\Debug\akcaSoftLogin.pdb
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - menuler\akcaSoftLogin\bin\Debug\akcaSoftLogin.exe
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - menuler\akcaSoftLogin\bin\Debug\akcaSoftLogin.pdb
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - menuler\akcaSoftLogin\obj\Debug\akcaSoftLogin.csprojResolveAssemblyReference.cache
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - menuler\akcaSoftLogin\obj\Debug\akcaSoftLogin.Login.resources
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - menuler\akcaSoftLogin\obj\Debug\akcaSoftLogin.Menuler.AnaSayfa.resources
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - menuler\akcaSoftLogin\obj\Debug\akcaSoftLogin.Properties.Resources.resources
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - menuler\akcaSoftLogin\obj\Debug\akcaSoftLogin.csproj.GenerateResource.Cache
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - menuler\akcaSoftLogin\obj\Debug\akcaSoftLogin.Menuler.Sayfalar.Ekle.resources
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - menuler\akcaSoftLogin\obj\Debug\akcaSoftLogin.Menuler.Sayfalar.Guncelle.resources
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - menuler\akcaSoftLogin\obj\Debug\akcaSoftLogin.Menuler.Sayfalar.Ara.resources
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - degisim_v1\akcaSoftLogin\bin\Debug\akcaSoftLogin.exe.config
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - degisim_v1\akcaSoftLogin\obj\Debug\akcaSoftLogin.exe
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - degisim_v1\akcaSoftLogin\obj\Debug\akcaSoftLogin.pdb
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - degisim_v1\akcaSoftLogin\bin\Debug\akcaSoftLogin.exe
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - degisim_v1\akcaSoftLogin\bin\Debug\akcaSoftLogin.pdb
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - degisim_v1\akcaSoftLogin\obj\Debug\akcaSoftLogin.csprojResolveAssemblyReference.cache
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - degisim_v1\akcaSoftLogin\obj\Debug\akcaSoftLogin.Login.resources
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - degisim_v1\akcaSoftLogin\obj\Debug\akcaSoftLogin.Menuler.AnaSayfa.resources
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - degisim_v1\akcaSoftLogin\obj\Debug\akcaSoftLogin.Menuler.Sayfalar.Ara.resources
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - degisim_v1\akcaSoftLogin\obj\Debug\akcaSoftLogin.Menuler.Sayfalar.Ekle.resources
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - degisim_v1\akcaSoftLogin\obj\Debug\akcaSoftLogin.Menuler.Sayfalar.Guncelle.resources
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - degisim_v1\akcaSoftLogin\obj\Debug\akcaSoftLogin.Properties.Resources.resources
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\akcaSoftLogin - degisim_v1\akcaSoftLogin\obj\Debug\akcaSoftLogin.csproj.GenerateResource.Cache

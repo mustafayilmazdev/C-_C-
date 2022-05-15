@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\anlatimİcinçoklukalıtım\anlatimİcinçoklukalıtım\source.cpp(28): warning C4305: 'argument': truncation from 'double' to 'float'
+  anlatimİcinÇoklukalıtım.vcxproj -> c:\users\mustafa yilmaz\documents\visual studio 2015\Projects\anlatimİcinÇoklukalıtım\Debug\anlatimİcinÇoklukalıtım.exe
+  anlatimİcinÇoklukalıtım.vcxproj -> c:\users\mustafa yilmaz\documents\visual studio 2015\Projects\anlatimİcinÇoklukalıtım\Debug\anlatimİcinÇoklukalıtım.pdb (Full PDB)

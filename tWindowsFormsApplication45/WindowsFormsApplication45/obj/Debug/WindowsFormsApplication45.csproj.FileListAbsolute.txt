@@ -1,0 +1,12 @@
+c:\users\xxmus\documents\visual studio 2015\Projects\WindowsFormsApplication45\WindowsFormsApplication45\bin\Debug\WindowsFormsApplication45.exe.config
+c:\users\xxmus\documents\visual studio 2015\Projects\WindowsFormsApplication45\WindowsFormsApplication45\obj\Debug\WindowsFormsApplication45.csprojResolveAssemblyReference.cache
+c:\users\xxmus\documents\visual studio 2015\Projects\WindowsFormsApplication45\WindowsFormsApplication45\obj\Debug\WindowsFormsApplication45.Form1.resources
+c:\users\xxmus\documents\visual studio 2015\Projects\WindowsFormsApplication45\WindowsFormsApplication45\obj\Debug\WindowsFormsApplication45.Properties.Resources.resources
+c:\users\xxmus\documents\visual studio 2015\Projects\WindowsFormsApplication45\WindowsFormsApplication45\obj\Debug\WindowsFormsApplication45.csproj.GenerateResource.Cache
+c:\users\xxmus\documents\visual studio 2015\Projects\WindowsFormsApplication45\WindowsFormsApplication45\bin\Debug\WindowsFormsApplication45.exe
+c:\users\xxmus\documents\visual studio 2015\Projects\WindowsFormsApplication45\WindowsFormsApplication45\bin\Debug\WindowsFormsApplication45.pdb
+c:\users\xxmus\documents\visual studio 2015\Projects\WindowsFormsApplication45\WindowsFormsApplication45\obj\Debug\WindowsFormsApplication45.exe
+c:\users\xxmus\documents\visual studio 2015\Projects\WindowsFormsApplication45\WindowsFormsApplication45\obj\Debug\WindowsFormsApplication45.pdb
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\tWindowsFormsApplication45\WindowsFormsApplication45\bin\Debug\WindowsFormsApplication45.exe.config
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\tWindowsFormsApplication45\WindowsFormsApplication45\obj\Debug\WindowsFormsApplication45.exe
+C:\Users\xxmus\Documents\Visual Studio 2015\Projects\tWindowsFormsApplication45\WindowsFormsApplication45\obj\Debug\WindowsFormsApplication45.pdb

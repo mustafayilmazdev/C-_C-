@@ -1,0 +1,6 @@
+c:\users\mustafa yilmaz\documents\visual studio 2015\Projects\hadiii\hadiii\bin\Debug\hadiii.exe.config
+c:\users\mustafa yilmaz\documents\visual studio 2015\Projects\hadiii\hadiii\bin\Debug\hadiii.exe
+c:\users\mustafa yilmaz\documents\visual studio 2015\Projects\hadiii\hadiii\bin\Debug\hadiii.pdb
+c:\users\mustafa yilmaz\documents\visual studio 2015\Projects\hadiii\hadiii\obj\Debug\hadiii.csprojResolveAssemblyReference.cache
+c:\users\mustafa yilmaz\documents\visual studio 2015\Projects\hadiii\hadiii\obj\Debug\hadiii.exe
+c:\users\mustafa yilmaz\documents\visual studio 2015\Projects\hadiii\hadiii\obj\Debug\hadiii.pdb

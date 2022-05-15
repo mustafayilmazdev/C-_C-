@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication56\consoleapplication56\source.cpp(17): warning C4930: 'Matris a(void)': prototyped function not called (was a variable definition intended?)
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication56\consoleapplication56\source.cpp(18): warning C4930: 'Matris b(void)': prototyped function not called (was a variable definition intended?)
+  ConsoleApplication56.vcxproj -> c:\users\xxmus\documents\visual studio 2015\Projects\ConsoleApplication56\Debug\ConsoleApplication56.exe
+  ConsoleApplication56.vcxproj -> c:\users\xxmus\documents\visual studio 2015\Projects\ConsoleApplication56\Debug\ConsoleApplication56.pdb (Full PDB)

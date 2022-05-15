@@ -1,0 +1,9 @@
+﻿  epslib.c
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication68\consoleapplication68\epslib.c(45): warning C4244: 'function': conversion from 'double' to 'std::size_t', possible loss of data
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication68\consoleapplication68\epslib.c(46): warning C4244: 'function': conversion from 'double' to 'std::size_t', possible loss of data
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication68\consoleapplication68\epslib.c(50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication68\consoleapplication68\epslib.c(50): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication68\consoleapplication68\epslib.c(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  ConsoleApplication68.vcxproj -> C:\Users\xxmus\Documents\Visual Studio 2015\Projects\ConsoleApplication68\Debug\ConsoleApplication68.exe
+  ConsoleApplication68.vcxproj -> C:\Users\xxmus\Documents\Visual Studio 2015\Projects\ConsoleApplication68\Debug\ConsoleApplication68.pdb (Full PDB)

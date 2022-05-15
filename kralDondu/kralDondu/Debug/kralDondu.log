@@ -1,0 +1,4 @@
+﻿  Ucgen.cpp
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\kraldondu\kraldondu\ucgen.cpp(42): warning C4305: 'return': truncation from 'int' to 'bool'
+  kralDondu.vcxproj -> C:\Users\Mustafa YILMAZ\Documents\Visual Studio 2015\Projects\kralDondu\Debug\kralDondu.exe
+  kralDondu.vcxproj -> C:\Users\Mustafa YILMAZ\Documents\Visual Studio 2015\Projects\kralDondu\Debug\kralDondu.pdb (Full PDB)

@@ -1,0 +1,9 @@
+﻿  isimTutma.cpp
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication14\consoleapplication1\isimtutma.cpp(31): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication14\consoleapplication1\isimtutma.cpp(32): error C2672: 'kuvvetAl': no matching overloaded function found
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication14\consoleapplication1\isimtutma.cpp(32): error C2782: 'T kuvvetAl(T &,T &)': template parameter 'T' is ambiguous
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication14\consoleapplication1\isimtutma.cpp(16): note: see declaration of 'kuvvetAl'
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication14\consoleapplication1\isimtutma.cpp(32): note: could be 'float'
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication14\consoleapplication1\isimtutma.cpp(32): note: or       'int'
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication14\consoleapplication1\isimtutma.cpp(32): error C2784: 'T kuvvetAl(T &,T &)': could not deduce template argument for 'T &' from 'float'
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication14\consoleapplication1\isimtutma.cpp(16): note: see declaration of 'kuvvetAl'

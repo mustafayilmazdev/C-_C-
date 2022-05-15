@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication22\consoleapplication22\source.cpp(37): error C2248: 'insan::maas': cannot access private member declared in class 'insan'
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication22\consoleapplication22\source.cpp(6): note: see declaration of 'insan::maas'
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication22\consoleapplication22\source.cpp(5): note: see declaration of 'insan'
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication22\consoleapplication22\source.cpp(39): error C2248: 'insan::maas': cannot access private member declared in class 'insan'
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication22\consoleapplication22\source.cpp(6): note: see declaration of 'insan::maas'
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication22\consoleapplication22\source.cpp(5): note: see declaration of 'insan'

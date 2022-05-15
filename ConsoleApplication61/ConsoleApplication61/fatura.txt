@@ -1,0 +1,19 @@
+545 Telefon Teknolojik 100  
+545 Telefon Teknolojik 100 100 Wed Jun 10 16:30:38 2020
+ 
+545 Telefon Teknolojik 100 -80 Wed Jun 10 16:31:44 2020
+ 
+545 Telefon Teknolojik 100 1000 Wed Jun 10 16:32:45 2020
+ 
+1050 Bilgisayar Teknoloji 20000 40000 Wed Jun 10 16:38:32 2020
+ 
+695 s d 2 2000 Wed Jun 10 16:46:31 2020
+ 
+1050 Bilgisayar Teknoloji 20000 200000 Wed Jun 10 16:55:38 2020
+ 
+911 Havlu Tekstil 55 275 Wed Jun 10 17:40:56 2020
+ 
+508 Hoparlor Teknoloji 50 500 Wed Jun 10 17:49:34 2020
+ 
+677 Cuzdan Tekstil 10 50 Wed Jun 10 17:50:27 2020
+ 

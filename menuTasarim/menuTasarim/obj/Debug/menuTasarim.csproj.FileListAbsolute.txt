@@ -1,0 +1,12 @@
+c:\users\xxmus\documents\visual studio 2015\Projects\menuTasarim\menuTasarim\bin\Debug\menuTasarim.exe.config
+c:\users\xxmus\documents\visual studio 2015\Projects\menuTasarim\menuTasarim\bin\Debug\menuTasarim.exe
+c:\users\xxmus\documents\visual studio 2015\Projects\menuTasarim\menuTasarim\bin\Debug\menuTasarim.pdb
+c:\users\xxmus\documents\visual studio 2015\Projects\menuTasarim\menuTasarim\obj\Debug\menuTasarim.csprojResolveAssemblyReference.cache
+c:\users\xxmus\documents\visual studio 2015\Projects\menuTasarim\menuTasarim\obj\Debug\menuTasarim.Form1.resources
+c:\users\xxmus\documents\visual studio 2015\Projects\menuTasarim\menuTasarim\obj\Debug\menuTasarim.Properties.Resources.resources
+c:\users\xxmus\documents\visual studio 2015\Projects\menuTasarim\menuTasarim\obj\Debug\menuTasarim.csproj.GenerateResource.Cache
+c:\users\xxmus\documents\visual studio 2015\Projects\menuTasarim\menuTasarim\obj\Debug\menuTasarim.exe
+c:\users\xxmus\documents\visual studio 2015\Projects\menuTasarim\menuTasarim\obj\Debug\menuTasarim.pdb
+c:\users\xxmus\documents\visual studio 2015\Projects\menuTasarim\menuTasarim\obj\Debug\menuTasarim.sayfalar.FormEkle.resources
+c:\users\xxmus\documents\visual studio 2015\Projects\menuTasarim\menuTasarim\obj\Debug\menuTasarim.sayfalar.FormGuncelle.resources
+c:\users\xxmus\documents\visual studio 2015\Projects\menuTasarim\menuTasarim\obj\Debug\menuTasarim.sayfalar.formAra.resources

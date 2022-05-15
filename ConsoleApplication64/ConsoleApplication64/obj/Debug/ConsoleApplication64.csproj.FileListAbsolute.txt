@@ -1,0 +1,6 @@
+c:\users\xxmus\documents\visual studio 2015\Projects\ConsoleApplication64\ConsoleApplication64\bin\Debug\ConsoleApplication64.exe.config
+c:\users\xxmus\documents\visual studio 2015\Projects\ConsoleApplication64\ConsoleApplication64\obj\Debug\ConsoleApplication64.csprojResolveAssemblyReference.cache
+c:\users\xxmus\documents\visual studio 2015\Projects\ConsoleApplication64\ConsoleApplication64\bin\Debug\ConsoleApplication64.exe
+c:\users\xxmus\documents\visual studio 2015\Projects\ConsoleApplication64\ConsoleApplication64\bin\Debug\ConsoleApplication64.pdb
+c:\users\xxmus\documents\visual studio 2015\Projects\ConsoleApplication64\ConsoleApplication64\obj\Debug\ConsoleApplication64.exe
+c:\users\xxmus\documents\visual studio 2015\Projects\ConsoleApplication64\ConsoleApplication64\obj\Debug\ConsoleApplication64.pdb

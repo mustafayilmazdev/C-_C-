@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\anlatimİcin2soru\anlatimİcin2soru\header.h(29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  anlatimİcin2Soru.vcxproj -> c:\users\mustafa yilmaz\documents\visual studio 2015\Projects\anlatimİcin2Soru\Debug\anlatimİcin2Soru.exe
+  anlatimİcin2Soru.vcxproj -> c:\users\mustafa yilmaz\documents\visual studio 2015\Projects\anlatimİcin2Soru\Debug\anlatimİcin2Soru.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\consoleapplication19\consoleapplication19\source.cpp(36): warning C4141: 'virtual': used more than once
+  ConsoleApplication19.vcxproj -> c:\users\mustafa yilmaz\documents\visual studio 2015\Projects\ConsoleApplication19\Debug\ConsoleApplication19.exe
+  ConsoleApplication19.vcxproj -> c:\users\mustafa yilmaz\documents\visual studio 2015\Projects\ConsoleApplication19\Debug\ConsoleApplication19.pdb (Full PDB)

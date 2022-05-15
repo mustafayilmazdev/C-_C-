@@ -1,0 +1,4 @@
+﻿  Fonksiyonlarim.cpp
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\fonk\fonk\fonksiyonlarim.cpp(129): warning C4700: uninitialized local variable 'c' used
+  Fonk.vcxproj -> c:\Users\mustafa yilmaz\documents\visual studio 2015\Projects\Fonk\Debug\Fonk.exe
+  Fonk.vcxproj -> c:\Users\mustafa yilmaz\documents\visual studio 2015\Projects\Fonk\Debug\Fonk.pdb (Full PDB)

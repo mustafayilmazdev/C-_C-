@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication74\consoleapplication74\source.c(12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication74\consoleapplication74\source.c(8): warning C4101: 'p': unreferenced local variable
+  ConsoleApplication74.vcxproj -> C:\Users\xxmus\Documents\Visual Studio 2015\Projects\ConsoleApplication74\Debug\ConsoleApplication74.exe
+  ConsoleApplication74.vcxproj -> C:\Users\xxmus\Documents\Visual Studio 2015\Projects\ConsoleApplication74\Debug\ConsoleApplication74.pdb (Full PDB)

@@ -1,0 +1,21 @@
+﻿  Source.c
+  epslib.c
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication65\consoleapplication65\epslib.c(130): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication65\consoleapplication65\epslib.c(191): error C2143: syntax error: missing ';' before '{'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication65\consoleapplication65\epslib.c(191): error C2065: 'x': undeclared identifier
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication65\consoleapplication65\epslib.c(191): warning C4098: 'draw_circle': 'void' function returning a value
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication65\consoleapplication65\epslib.c(192): error C2143: syntax error: missing ';' before '{'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication65\consoleapplication65\epslib.c(192): error C2065: 'x': undeclared identifier
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication65\consoleapplication65\epslib.c(192): warning C4098: 'draw_circle': 'void' function returning a value
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication65\consoleapplication65\epslib.c(228): error C2143: syntax error: missing ';' before '{'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication65\consoleapplication65\epslib.c(228): error C2065: 'x': undeclared identifier
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication65\consoleapplication65\epslib.c(228): warning C4098: 'draw_ellipse': 'void' function returning a value
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication65\consoleapplication65\epslib.c(229): error C2143: syntax error: missing ';' before '{'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication65\consoleapplication65\epslib.c(229): error C2065: 'x': undeclared identifier
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication65\consoleapplication65\epslib.c(229): warning C4098: 'draw_ellipse': 'void' function returning a value
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication65\consoleapplication65\epslib.c(269): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+  draw_fx.c
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication65\consoleapplication65\draw_fx.c(35): error C2440: 'return': cannot convert from 'Figure' to 'Figure *'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication65\consoleapplication65\draw_fx.c(37): error C2143: syntax error: missing ';' before '['
+  Generating Code...

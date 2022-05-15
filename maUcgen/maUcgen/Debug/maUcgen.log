@@ -1,0 +1,25 @@
+﻿  ucgen.cpp
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\maucgen\maucgen\header.h(25): error C2535: 'ucgen::~ucgen(void)': member function already defined or declared
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\maucgen\maucgen\header.h(22): note: see declaration of 'ucgen::~ucgen'
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\maucgen\maucgen\header.h(26): error C2572: 'ucgen::ucgen': redefinition of default argument: parameter 1
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\maucgen\maucgen\header.h(21): note: see declaration of 'ucgen::ucgen'
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\maucgen\maucgen\header.h(26): error C2572: 'ucgen::ucgen': redefinition of default argument: parameter 2
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\maucgen\maucgen\header.h(21): note: see declaration of 'ucgen::ucgen'
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\maucgen\maucgen\header.h(26): error C2572: 'ucgen::ucgen': redefinition of default argument: parameter 3
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\maucgen\maucgen\header.h(21): note: see declaration of 'ucgen::ucgen'
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\maucgen\maucgen\header.h(26): error C2535: 'ucgen::ucgen(double,double,double)': member function already defined or declared
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\maucgen\maucgen\header.h(21): note: see declaration of 'ucgen::ucgen'
+  Generating Code...
+  Compiling...
+  main.cpp
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\maucgen\maucgen\header.h(25): error C2535: 'ucgen::~ucgen(void)': member function already defined or declared
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\maucgen\maucgen\header.h(22): note: see declaration of 'ucgen::~ucgen'
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\maucgen\maucgen\header.h(26): error C2572: 'ucgen::ucgen': redefinition of default argument: parameter 1
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\maucgen\maucgen\header.h(21): note: see declaration of 'ucgen::ucgen'
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\maucgen\maucgen\header.h(26): error C2572: 'ucgen::ucgen': redefinition of default argument: parameter 2
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\maucgen\maucgen\header.h(21): note: see declaration of 'ucgen::ucgen'
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\maucgen\maucgen\header.h(26): error C2572: 'ucgen::ucgen': redefinition of default argument: parameter 3
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\maucgen\maucgen\header.h(21): note: see declaration of 'ucgen::ucgen'
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\maucgen\maucgen\header.h(26): error C2535: 'ucgen::ucgen(double,double,double)': member function already defined or declared
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\maucgen\maucgen\header.h(21): note: see declaration of 'ucgen::ucgen'
+  Generating Code...

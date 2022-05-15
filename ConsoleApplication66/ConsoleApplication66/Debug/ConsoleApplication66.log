@@ -1,0 +1,8 @@
+﻿  Source.c
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication66\consoleapplication66\source.c(26): warning C4013: 'set_thickness_resolution' undefined; assuming extern returning int
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication66\consoleapplication66\source.c(28): warning C4013: 'set_color' undefined; assuming extern returning int
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication66\consoleapplication66\source.c(31): warning C4013: 'draw_fx' undefined; assuming extern returning int
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication66\consoleapplication66\source.c(31): warning C4013: 'function' undefined; assuming extern returning int
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication66\consoleapplication66\source.c(35): warning C4013: 'export_eps' undefined; assuming extern returning int
+  ConsoleApplication66.vcxproj -> C:\Users\xxmus\documents\visual studio 2015\Projects\ConsoleApplication66\Debug\ConsoleApplication66.exe
+  ConsoleApplication66.vcxproj -> C:\Users\xxmus\documents\visual studio 2015\Projects\ConsoleApplication66\Debug\ConsoleApplication66.pdb (Full PDB)

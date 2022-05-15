@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication39\consoleapplication39\source.cpp(11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication39.vcxproj -> c:\users\xxmus\documents\visual studio 2015\Projects\ConsoleApplication39\Debug\ConsoleApplication39.exe
+  ConsoleApplication39.vcxproj -> c:\users\xxmus\documents\visual studio 2015\Projects\ConsoleApplication39\Debug\ConsoleApplication39.pdb (Full PDB)

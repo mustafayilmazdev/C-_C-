@@ -1,0 +1,39 @@
+﻿  Source.c
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(23): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(35): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(36): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 6 has type 'time_t'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(36): warning C4313: 'fprintf': '%s' in format string conflicts with argument 6 of type 'time_t'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(56): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(125): warning C4047: 'function': 'time_t' differs in levels of indirection from 'char *'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(125): warning C4024: 'yazici': different types for formal and actual parameter 3
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(146): warning C4013: 'getch' undefined; assuming extern returning int
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(51): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(63): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(66): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(70): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(74): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(86): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(93): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(97): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(105): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(108): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(114): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication62\consoleapplication62\source.c(125): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(475): note: see declaration of 'ctime'
+  ConsoleApplication62.vcxproj -> c:\users\xxmus\documents\visual studio 2015\Projects\ConsoleApplication62\Debug\ConsoleApplication62.exe
+  ConsoleApplication62.vcxproj -> c:\users\xxmus\documents\visual studio 2015\Projects\ConsoleApplication62\Debug\ConsoleApplication62.pdb (Full PDB)

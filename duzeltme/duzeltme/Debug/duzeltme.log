@@ -1,0 +1,10 @@
+﻿  Ulas.cpp
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\duzeltme\duzeltme\ulas.cpp(3): error C2628: 'ulas' followed by 'int' is illegal (did you forget a ';'?)
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\duzeltme\duzeltme\ulas.cpp(3): error C2556: 'ulas ulas::f(void)': overloaded function differs only by return type from 'int ulas::f(void)'
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\duzeltme\duzeltme\ulas.h(11): note: see declaration of 'ulas::f'
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\duzeltme\duzeltme\ulas.cpp(3): error C2371: 'ulas::f': redefinition; different basic types
+  c:\users\mustafa yilmaz\documents\visual studio 2015\projects\duzeltme\duzeltme\ulas.h(11): note: see declaration of 'ulas::f'
+  Source.cpp
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\duzeltme\duzeltme\source.cpp(2): error C2628: 'ulas' followed by 'int' is illegal (did you forget a ';'?)
+c:\users\mustafa yilmaz\documents\visual studio 2015\projects\duzeltme\duzeltme\source.cpp(2): error C3874: return type of 'main' should be 'int' instead of 'ulas'
+  Generating Code...

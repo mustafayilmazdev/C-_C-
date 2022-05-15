@@ -1,0 +1,5 @@
+c:\users\mustafa yilmaz\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+C:\Users\Mustafa YILMAZ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\Mustafa YILMAZ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form2.resources
+C:\Users\Mustafa YILMAZ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\Mustafa YILMAZ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache

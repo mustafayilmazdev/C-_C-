@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication48\consoleapplication48\source.cpp(43): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication48.vcxproj -> c:\users\xxmus\documents\visual studio 2015\Projects\ConsoleApplication48\Debug\ConsoleApplication48.exe
+  ConsoleApplication48.vcxproj -> c:\users\xxmus\documents\visual studio 2015\Projects\ConsoleApplication48\Debug\ConsoleApplication48.pdb (Full PDB)

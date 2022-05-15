@@ -1,0 +1,9 @@
+c:\users\xxmus\documents\visual studio 2015\Projects\doublyLinkedList\doublyLinkedList\bin\Debug\doublyLinkedList.exe.config
+c:\users\xxmus\documents\visual studio 2015\Projects\doublyLinkedList\doublyLinkedList\bin\Debug\doublyLinkedList.exe
+c:\users\xxmus\documents\visual studio 2015\Projects\doublyLinkedList\doublyLinkedList\bin\Debug\doublyLinkedList.pdb
+c:\users\xxmus\documents\visual studio 2015\Projects\doublyLinkedList\doublyLinkedList\obj\Debug\doublyLinkedList.csprojResolveAssemblyReference.cache
+c:\users\xxmus\documents\visual studio 2015\Projects\doublyLinkedList\doublyLinkedList\obj\Debug\doublyLinkedList.Form1.resources
+c:\users\xxmus\documents\visual studio 2015\Projects\doublyLinkedList\doublyLinkedList\obj\Debug\doublyLinkedList.Properties.Resources.resources
+c:\users\xxmus\documents\visual studio 2015\Projects\doublyLinkedList\doublyLinkedList\obj\Debug\doublyLinkedList.csproj.GenerateResource.Cache
+c:\users\xxmus\documents\visual studio 2015\Projects\doublyLinkedList\doublyLinkedList\obj\Debug\doublyLinkedList.exe
+c:\users\xxmus\documents\visual studio 2015\Projects\doublyLinkedList\doublyLinkedList\obj\Debug\doublyLinkedList.pdb

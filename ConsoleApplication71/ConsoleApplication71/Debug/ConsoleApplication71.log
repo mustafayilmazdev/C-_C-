@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\xxmus\documents\visual studio 2015\projects\consoleapplication71\consoleapplication71\source.cpp(19): warning C4101: 'k': unreferenced local variable
+  ConsoleApplication71.vcxproj -> c:\users\xxmus\documents\visual studio 2015\Projects\ConsoleApplication71\Debug\ConsoleApplication71.exe
+  ConsoleApplication71.vcxproj -> c:\users\xxmus\documents\visual studio 2015\Projects\ConsoleApplication71\Debug\ConsoleApplication71.pdb (Full PDB)

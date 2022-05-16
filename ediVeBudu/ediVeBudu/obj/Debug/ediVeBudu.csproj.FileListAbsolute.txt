@@ -1,9 +1,0 @@
-c:\users\xxmus\documents\visual studio 2015\Projects\ediVeBudu\ediVeBudu\bin\Debug\ediVeBudu.exe.config
-c:\users\xxmus\documents\visual studio 2015\Projects\ediVeBudu\ediVeBudu\bin\Debug\ediVeBudu.exe
-c:\users\xxmus\documents\visual studio 2015\Projects\ediVeBudu\ediVeBudu\bin\Debug\ediVeBudu.pdb
-c:\users\xxmus\documents\visual studio 2015\Projects\ediVeBudu\ediVeBudu\obj\Debug\ediVeBudu.csprojResolveAssemblyReference.cache
-c:\users\xxmus\documents\visual studio 2015\Projects\ediVeBudu\ediVeBudu\obj\Debug\ediVeBudu.Form1.resources
-c:\users\xxmus\documents\visual studio 2015\Projects\ediVeBudu\ediVeBudu\obj\Debug\ediVeBudu.Properties.Resources.resources
-c:\users\xxmus\documents\visual studio 2015\Projects\ediVeBudu\ediVeBudu\obj\Debug\ediVeBudu.csproj.GenerateResource.Cache
-c:\users\xxmus\documents\visual studio 2015\Projects\ediVeBudu\ediVeBudu\obj\Debug\ediVeBudu.exe
-c:\users\xxmus\documents\visual studio 2015\Projects\ediVeBudu\ediVeBudu\obj\Debug\ediVeBudu.pdb
